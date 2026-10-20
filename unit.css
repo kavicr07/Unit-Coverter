@@ -60,4 +60,7 @@ h3{
     #head {
         grid-template-columns: 1fr;
     }
+    #project {
+        padding: 22px;
+    }
 }
